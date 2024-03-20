@@ -244,10 +244,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of Serial port utility   :
 
-![image](https://github.com/karnashankar/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/121109150/dcfaf7ba-afdc-4239-a870-c08b1854ca49)
-
- 
- 
+![iot-exp-3](https://github.com/karnashankar/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/121109150/095d92ce-f692-4ab1-9351-ae8cdbd10dc0)
  
  
 ## Result :
