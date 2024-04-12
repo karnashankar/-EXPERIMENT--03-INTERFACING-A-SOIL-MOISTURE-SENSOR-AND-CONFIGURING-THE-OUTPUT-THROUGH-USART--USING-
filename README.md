@@ -1,9 +1,9 @@
 
 ###  DATE: 
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: Karna S
+###  ROLL NO : 212222110017
+###  DEPARTMENT: CSE (IoT)
 
 # EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
